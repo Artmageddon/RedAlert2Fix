@@ -63,7 +63,7 @@ In the Intro section, add "Play=no" to suppress the intro videos and get to the 
 
 Feel free to refer to the Sample_RA2.ini contained within this repo as an example.
 
-*Note: Adding "AllowVRAMSidebar=no" may be an option if the above settings weren't sufficient, but I haven't tested it*
+*Note: Adding "AllowVRAMSidebar=no" in the [Video] section may be an option if the above settings weren't sufficient, but I haven't tested it*
 
 ## Configure Origin
 * Finally, some of the Origin settings can interfere with the stability of the game. Run Origin, and go to My Games. 
