@@ -42,10 +42,15 @@ Extract the contents of the zip file into your local RA2 folder. Assuming this i
 Open the RA2.ini file in your favorite text editor. Ensure that the following lines are present within the [Video] section:
 
 [Video]
+
 AllowHiResModes=yes
+
 VideoBackBuffer=no
+
 ScreenWidth=1920
+
 ScreenHeight=1080
+
 StretchMovies=no
 
 The ScreenWidth and ScreenHeight can be adjusted as necessary (assuming your monitor supports it, within reason).
@@ -53,6 +58,7 @@ The ScreenWidth and ScreenHeight can be adjusted as necessary (assuming your mon
 In the Intro section, add "Play=no" to suppress the intro videos and get to the action sooner:
 
 [Intro]
+
 Play=no
 
 Feel free to refer to the Sample_RA2.ini contained within this repo as an example.
