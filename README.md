@@ -19,7 +19,7 @@ GPU:|NVidia GTX-970
 Display:|Single monitor set to 1920x1200
 
 Red Alert 2 version: v1.006
-Yuri's Revenge version: v1.01
+Yuri's Revenge version: v1.001
 
 ## Set the correct compatibility mode for RA2 executables
 * Locate the Red Alert 2 folder on your local hard drive
@@ -75,4 +75,12 @@ Feel free to refer to the Sample_RA2.ini contained within this repo as an exampl
 Go play!
 
 ## Credit where credit is due:
+
+If you're still facing issues, sorry :( but don't give up! Try the links below for more suggestions:
+
 http://patrikkopac.blogspot.com/2015/09/c-red-alert-2-yuris-revenge-windows.html?m=1
+
+https://www.reddit.com/r/redalert2/comments/3lqzf1/resources_for_fixing_compatibility_issues_and_bugs/
+
+https://github.com/CnCNet/ts-ddraw
+
