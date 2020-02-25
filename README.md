@@ -1,7 +1,7 @@
 # Red Alert 2 Fix
 
 ## Intro
-This guide is meant to serve as a way to help enable a player to get EA's "Command and Conquer: Red Alert 2" working on newer operating systems such as Windows 10. This may be seen as a duplication of others' efforts to help resolve these issues, but often times these sites are filled with annoying ads, or have broken links to the necessary files - sometimes the download sites themselves can be extremely sketchy. Reddit has been super helpful in providing direct assistance, but the search can be terrible.
+This guide is meant to serve as a way to help enable a player to get EA's "Command and Conquer: Red Alert 2" working on newer operating systems such as Windows 10. This may be seen as a duplication of others' efforts to help resolve these issues, but often times these sites are filled with annoying ads, or have broken links to the necessary files - sometimes the download sites themselves can also be extremely sketchy. Reddit has been super helpful in providing direct assistance, but the search can be terrible.
 
 ## Disclaimer:
 Note that while my goal is to be as specific as possible in this guide, this has not been tested on a variety of systems, (only mine, in fact), so I do *not* and *can not* guarantee that this will work for everyone. In addition, I am not responsible for anything which may happen to your instance of Red Alert 2 or even your system as a result of following the instructions contain herein.
