@@ -18,8 +18,10 @@ OS|Windows 10, 64-bit
 GPU:|NVidia GTX-970
 Display:|Single monitor set to 1920x1200
 
-Red Alert 2 version: v1.006
-Yuri's Revenge version: v1.001
+* Red Alert 2 version: v1.006
+
+* Yuri's Revenge version: v1.001
+
 
 ## Set the correct compatibility mode for RA2 executables
 * Locate the Red Alert 2 folder on your local hard drive
@@ -64,6 +66,8 @@ In the Intro section, add "Play=no" to suppress the intro videos and get to the 
 Feel free to refer to the Sample_RA2.ini contained within this repo as an example.
 
 *Note: Adding "AllowVRAMSidebar=no" in the [Video] section may be an option if the above settings weren't sufficient, but I haven't tested it*
+
+*Second note: some users have mentioned that RA2.ini is blank - if so, copy the contents of the Sample_RA2.ini into your RA2.ini file and make modifications as needed.*
 
 ## Configure Origin
 * Finally, some of the Origin settings can interfere with the stability of the game. Run Origin, and go to My Games. 
